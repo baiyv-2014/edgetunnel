@@ -8,10 +8,11 @@ let userID = 'ea326131-4972-4dc5-bdcb-05cbbf533c86';
 
 let proxyIP = '';// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。'cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org'
 
-
+/*
 const proxyIPs = ['proxyip.fxxk.dedyn.io','us.gitgoogle.com','aliyun.gitgoogle.com','oracle.gitgoogle.com',
 'proxyip.oracle.fxxk.dedyn.io','proxyip.digitalocean.fxxk.dedyn.io','proxyip.aliyun.fxxk.dedyn.io']
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
+*/
 
 
 //let sub = '';// 留空则显示原版内容
